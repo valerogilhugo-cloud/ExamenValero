@@ -1,2 +1,3 @@
 
 mkdir prog/mkdir si/mkdir bbdd
+cd prog / echo  >>index.php / cd ..
