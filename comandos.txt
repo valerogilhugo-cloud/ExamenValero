@@ -1,1 +1,2 @@
 
+mkdir prog/mkdir si/mkdir bbdd
